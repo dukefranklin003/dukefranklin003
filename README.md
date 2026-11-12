@@ -46,15 +46,57 @@ I combine analytical thinking with a creative approach to software and technolog
 | 🍽️ **Food Genie** | AI-powered food ordering |
 | 📊 **Smart Expense Tracker** | Predictive spending analytics |
 
-### GITHUB ANALYTICS
+### ✦ SELECTED WORK & ENGINEERING
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dukefranklin003&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9DAE11&icon_color=9DAE11&text_color=FFFFFF&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukefranklin003&layout=compact&hide_border=true&bg_color=0D1117&title_color=9DAE11&text_color=FFFFFF" />
+  <a href="https://github.com/dukefranklin003">
+    <img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-273E06?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<table>
+<tr>
+<td width="50%">
+<h3>🧠 NeuroMirror</h3>
+<p>Multimodal emotion recognition through facial expressions and vocal signals.</p>
+<sub>Python · TensorFlow · OpenCV · FastAPI</sub>
+<br/><br/>
+<b>90% Classification Accuracy</b>
+</td>
+<td width="50%">
+<h3>🍽️ Food Genie</h3>
+<p>AI-powered food ordering with natural-language search and intelligent review analysis.</p>
+<sub>MERN · Groq API · NLP</sub>
+<br/><br/>
+<b>4 Integrated AI Modules</b>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>📊 Smart Expense Tracker</h3>
+<p>Automated expense categorisation and predictive spending insights.</p>
+<sub>Python · Node.js · Analytics</sub>
+</td>
+<td width="50%">
+<h3>🏆 Disease Prediction</h3>
+<p>Machine learning pipeline developed for a national-level hackathon.</p>
+<sub>Python · TensorFlow · Scikit-learn</sub>
+<br/><br/>
+<b>National Hackathon · 2nd Runner-Up</b>
+</td>
+</tr>
+</table>
+
+---
+
+### ⌁ THE WORK BEHIND THE CODE
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dukefranklin003&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="95%"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=dukefranklin003&hide_border=true&background=0D1117&ring=9DAE11&fire=9DAE11&currStreakLabel=9DAE11&sideLabels=FFFFFF&dates=AAAAAA" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dukefranklin003&bg_color=0D1117&color=9DAE11&line=9DAE11&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Journey" width="95%"/>
 </p>
 
 ### BEYOND CODE
